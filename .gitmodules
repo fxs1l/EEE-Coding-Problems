@@ -1,0 +1,9 @@
+[submodule "EEE-121-Shortest-Path"]
+	path = EEE-121-Shortest-Path
+	url = https://github.com/fxs1l/EEE-121-Shortest-Path
+[submodule "SoftwareProjects/EEE-111-Mandala-Generator"]
+	path = SoftwareProjects/EEE-111-Mandala-Generator
+	url = https://github.com/fxs1l/EEE-111-Mandala-Generator
+[submodule "SoftwareProjects/EEE-111-StegaCipher"]
+	path = SoftwareProjects/EEE-111-StegaCipher
+	url = https://github.com/fxs1l/EEE-111-StegaCipher
